@@ -6,7 +6,7 @@ import s from './App.modules.scss'
 const App = () => {
   return(
     <div className={cn(s.header, 'color')}>
-      this is App Component All
+      this is my App Component
     </div>
   )
 }
